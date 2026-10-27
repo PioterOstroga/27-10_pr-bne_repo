@@ -1,2 +1,2 @@
-# 27-10_pr-bne_repo
+# 27-10_probne_repo
 Ćwiczenia 27/10
